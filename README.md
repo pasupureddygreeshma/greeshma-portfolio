@@ -22,8 +22,8 @@ Projects
 
 Certifications
 
-- NPTEL — Introduction to Internet of Things (IoT)
-- NPTEL — Industry 4.0 and Industrial IoT
+- NPTEL — Introduction to Internet of Things (IoT), IIT Kharagpur
+- NPTEL — Industry 4.0 and Industrial IoT, IIT Kharagpur
 
 Career Goal
 
